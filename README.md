@@ -41,6 +41,7 @@ A pizza store manager can leverage this SQL project to extract valuable insights
 **Marketing Insights**: Data analysis supports targeted marketing campaigns, such as promotions on popular pizza types or on days with typically lower sales.
 
 **Conclusion:-**
+
 This SQL project functions not only as a robust data management system but also as a strategic tool for business intelligence. By maintaining comprehensive data on every aspect of the store's operations, the database empowers store managers to make precise adjustments that enhance both customer experience and profitability. When shared on a blog, this project can offer practical insights into how structured SQL queries can be used to harness data for real-world business applications, making it an excellent resource for aspiring data analysts and business owners alike.
 
 
